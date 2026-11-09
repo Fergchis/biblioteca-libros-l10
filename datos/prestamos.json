@@ -1,0 +1,79 @@
+{
+  "generado": "2026-10-05T03:20:27.843Z",
+  "fuente": "respaldo-local-sintetico",
+  "sinopsis": "respaldo-local-sintetico",
+  "prestamos": [
+    {
+      "id": 1,
+      "libroId": 1,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000a",
+      "desde": "2026-09-21",
+      "hasta": "2026-10-05",
+      "devuelto": true
+    },
+    {
+      "id": 2,
+      "libroId": 4,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000a",
+      "desde": "2026-09-22",
+      "hasta": "2026-10-06",
+      "devuelto": false
+    },
+    {
+      "id": 3,
+      "libroId": 7,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000a",
+      "desde": "2026-09-23",
+      "hasta": "2026-10-07",
+      "devuelto": false
+    },
+    {
+      "id": 4,
+      "libroId": 10,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000a",
+      "desde": "2026-09-24",
+      "hasta": "2026-10-08",
+      "devuelto": false
+    },
+    {
+      "id": 5,
+      "libroId": 13,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000a",
+      "desde": "2026-09-25",
+      "hasta": "2026-10-09",
+      "devuelto": true
+    },
+    {
+      "id": 6,
+      "libroId": 16,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-26",
+      "hasta": "2026-10-10",
+      "devuelto": false
+    },
+    {
+      "id": 7,
+      "libroId": 19,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-27",
+      "hasta": "2026-10-11",
+      "devuelto": false
+    },
+    {
+      "id": 8,
+      "libroId": 22,
+      "usuarioSub": "00000000-0000-4000-8000-000000000001",
+      "desde": "2026-09-28",
+      "hasta": "2026-10-12",
+      "devuelto": false
+    },
+    {
+      "libroId": 3,
+      "usuarioSub": "00000000-0000-4000-8000-00000000000b",
+      "desde": "2026-10-05",
+      "hasta": "2026-10-19",
+      "devuelto": true,
+      "id": 9
+    }
+  ]
+}
